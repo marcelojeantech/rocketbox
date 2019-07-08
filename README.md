@@ -13,7 +13,7 @@ Em tempo real (Socket.io) desktop e mobile.
 
 Para realizar seus testes:
 
-git clone https://github.com/marcelojean10/frontend.git
+git clone https://github.com/marcelojean10/rocketbox.git
 
 Entre no repositório e em seu terminal execute:
 
