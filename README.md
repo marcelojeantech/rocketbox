@@ -33,5 +33,5 @@ http://localhost:3000/box/5caf869e50af220017f6a260
 
 
 Mas como eu consigo ver esses dados?
-A aplicação está utilizando o serviço do Backend como API hospedado no Heroku (Plataforma como serviço. Isso significa que você pode fazer deploy de seus serviços... https://heroku.com/)
+A aplicação está utilizando o serviço do Backend (https://github.com/marcelojean10/backend) como API hospedado no Heroku (Plataforma como serviço. Isso significa que você pode fazer deploy de seus serviços... https://heroku.com/)
 
