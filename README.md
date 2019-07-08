@@ -1,6 +1,6 @@
 RocketBox
 
-Esse curso foi feito em uma semana especial dada pela RocketSeat, no qual pude desenvolver esse ótimo projeto.
+Esse curso foi feito em uma semana especial dada pela RocketSeat (https://rocketseat.com.br), no qual pude desenvolver esse ótimo projeto.
 
 
 Esse projeto ele é inspirado no Dropbox porém com funcionalidades limitadas, apenas com inserção.
